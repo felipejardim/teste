@@ -1,6 +1,6 @@
 # STAR WARS Repo
 
-![./oreally.jpg](OH RLY?!)
+![OH RLY?!](./oreally.jpg)
 
-Este repositório é um teste
+Este repositório é um teste.
 
